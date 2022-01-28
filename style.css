@@ -23,7 +23,7 @@ body {
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
-	background-color: rgb(24, 26, 27);
+	background-color: rgb(38, 42, 43);
 	border-style: none;
 }
 
@@ -42,6 +42,7 @@ body {
 	font-size: 30px;
 	background-color: rgb(185, 185, 185);
 	border-radius: 10px;
+	margin: 20px;
 }
 
 .row:after {
